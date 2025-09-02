@@ -1,5 +1,5 @@
 
-# Agentic RAG (Ollama) — v2 with FAISS Save/Load  
+# Agentic RAG System
 
 A lightweight, production-ready **Retrieval-Augmented Generation (RAG) pipeline** built with **Ollama + LangChain**, supporting **hybrid retrieval (FAISS + BM25 + Reciprocal Rank Fusion)** and an **agentic reasoning loop** for more accurate answers.  
 
